@@ -1,0 +1,40 @@
+_repo: The-Wreck-of-the-Titanor-Futility_24880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, Morgan
+    alias: Robertson, Morgan Andrew
+    birthdate: 1861
+    deathdate: 1915
+    gutenberg_agent_id: '25902'
+    url: http://www.gutenberg.org/2009/agents/25902
+    wikipedia: http://en.wikipedia.org/wiki/Morgan_Robertson
+description: Futility, or the Wreck of the Titan is a novel which was originally writtena
+  nd published in 1898 by Morgan Robertson. This novel is the story of an ocean liner,
+  called the Titan, which sinks in the North Atlantic ocean after hitting an iceberg.
+  There are many similarities between this novel and the facts in the sinking of the
+  Titanic fourteen years later. Morgan Robertson revisited his work in 1912 after
+  the sinking of the Titanic and made the ship larger as well as changing the ending
+  of the story.
+gutenberg_issued: '2008-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ships -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sea stories, American'
+tableOfContents: The wreck of the Titan -- The pirates -- Beyond the spectrum -- In
+  the valley of the shadow.
+title: 'The Wreck of the Titan
+
+  or, Futility'
+url: http://www.gutenberg.org/ebooks/24880
